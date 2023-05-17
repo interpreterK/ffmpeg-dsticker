@@ -1,0 +1,2 @@
+Simple and easy to use shell script to convert gif's to apng for discord sticker use. Make sure you have the `ffmpeg` package.
+Give execute permissions to the script: `sudo chmod +x ffmpeg-dsticker.sh`, run it: `./ffmpeg-dsticker.sh`.
